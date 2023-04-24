@@ -1,1 +1,144 @@
-/* gh */
+
+.header{
+    height: 100px;
+    width: 100vw;
+    
+    background: #000;
+    color: black;
+}
+
+
+.main_logo{
+    /* text-decoration: underline; */
+    
+    position: absolute;
+    left: 400px;
+    
+    
+    
+    
+    
+    }
+    .cait{
+    /* display: inline; */
+    display: flex;
+    
+    }
+    
+    
+    
+    .header_logo{
+        width: 100px;
+        height: 100px;
+        
+    }
+    .logo_img{
+        width: 100%;;
+        height: 100%;
+        
+    }
+    li{
+        position: relative;
+        right:-600px; 
+    top: 10px;
+        padding: 12px 15px;
+        list-style-type: none;
+    }
+.inf{
+width:100vw ;
+height:500px ;
+background: rgb(237, 202, 159)
+
+}
+.inf_2{
+    width:400px ;
+    height:200px ;
+margin: 0px;
+float: left;
+position: relative;
+left: 80px;
+
+}
+.inf3{
+width:100px ;
+height:100px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    .header2{
+        height: 100px;
+        width: 100vw;
+        
+        background: #6f6f6f;
+        color: #fff0d1;
+        
+        
+        }
+        .main_logo2{
+        /* text-decoration: underline; */
+        
+        position: absolute;
+        left: 400px;
+        
+        
+        
+        
+        
+        }
+        .cait2{
+        /* display: inline; */
+        display: flex;
+        
+        
+        }
+        
+        
+        
+        .header_logo2{
+            width: 100px;
+            height: 100px;
+            
+        }
+        .logo_img2{
+            width: 100px;;
+            height: 100px;
+        }
+        .yu{
+            display:flex;
+       
+        }
+        .rt2{
+            width: 100px;
+            height:100px ;
+        }
+        .rt20{
+            width: 100px;
+            height: 100px;
+            position: relative;
+            top: -38px;
+            left: -250px;
+        }
+
+
+
+
+
+

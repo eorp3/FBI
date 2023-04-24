@@ -98,15 +98,13 @@ display:flex;
     
     width: 100px;
     height: 100px;
-    background: #7fee1d;
+    background: #ff8c00;
     -moz-border-radius: 90px;
     -webkit-border-radius: 90px;
     border-radius: 90px;
     position: relative;
-    left:-150px ;
-top: 300px;
-    
-
+    left:-450px ;
+top: 330px;
 
 
 
@@ -114,25 +112,105 @@ top: 300px;
 
 
 }
+.rt:hover{
+    background: aquamarine;
+    -ms-transform: scale(1.5);
+	-webkit-transform: scale(1.5);
+	-o-transform: scale(1.5);
+	-moz-transform: scale(1.5);
+	transform: scale(1.5);
+
+
+}
+
 .yu{
     display:flex;
 
 }
 .rt1{
+width: 80%;
+height:80% ;
+position: absolute;
+top: 10px;
+left: 10px;
+}
+.op{
+width: 200px;
+height: 80px;
+position: fixed ;
+top: 280px;
+left: 600px; 
 
+color: #000;
+
+
+}
+.ry{
+    color:rgb(0, 0, 0);
+    width: 100px;
+     height: 35px;
+position: absolute;   
+left: 670px;
+ top: 440px;
+ border-radius: 10px;
+ text-align: center;
+ line-height: 35px;
+
+     cursor: pointer;
+     background: rgb(237, 202, 159)
+     
 
 }
 .rt2{
+    width: 100px;
+    height:100px ;
+    /* position: absolute;
+    top: 20px;
+    left: 20px; */
 
 
 }
-.rt3{
-
-
+.rt20{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -38px;
+    left: -250px;
 }
-.rt4{
-
-
+#q{
+width: 100px;
+height:20px ;
+position: relative;
+top:300px;
+left:450px ;
+}
+.pq{
+width: 20px; ;
+height: 150px;
+position: relative;
+left: 650px;
+color: black;
+}
+.text{
+width: 100px; ;
+height: 20px; 
+position: relative;
+left: 550px; ;
+top: 40px;
+}
+.text1{
+    width: 100px; ;
+    height: 20px; 
+    position: relative;
+    left: 650px; ;
+    top: 80px;
+    }
+#ty{
+width:100px ;
+height: 40px; 
+position:fixed ;
+left:660px ;
+top:240px ;
 }
 
 
